@@ -34,6 +34,70 @@ bin/cake server -p 8765
 
 Then visit `http://localhost:8765` to see the welcome page.
 
+
+# First Instalation
+
+first create new folder 
+
+$mkdir -namefolder-
+
+clone repository from github 
+
+https://github.com/arsyandii/Tesprogrammerfastprint.git
+
+open folder 
+
+$ cd -namefolder-
+
+open code editor 
+
+$ code . (visual studio code)
+
+run application 
+
+open terminal in vs code src (ctrl+shift+`)
+
+in terminal run command 
+
+$ php bin/cake.php server 
+
+-------------------------------------------------------------------------------------------
+
+# Feature
+
+Halaman untuk menampilkan data 
+
+![Logo](https://i.ibb.co/WvJsv4B/testfastprint4.png)
+
+halaman untuk menambahkan data 
+
+![Logo](https://i.ibb.co/6XK0zYq/testfastprint5.png)
+
+Halaman untuk mengedit data 
+
+![Logo](https://i.ibb.co/M2KbqJS/testfastprint7.png)
+
+Halaman untuk melihat detail dari sebuah data 
+
+![Logo](https://i.ibb.co/LP1fHyL/testfastprint6.png)
+
+Halaman untuk menghapus
+
+![Logo](https://i.ibb.co/pKgW8Rr/testfastprint8.png)
+
+
+![Logo](https://i.ibb.co/grkK8Sg/testfastprint10.png)
+
+
+![Logo](https://i.ibb.co/RTRjgtM/testfastprint9.png)
+
+Sekian untuk tes project dari saya semoga dapat lolos seleksi dan bisa diterima di perusahaan. ✨
+menggunakan framework cakephp 
+php 8.1
+node 18
+
+
+
 ## Update
 
 Since this skeleton is a starting point for your application and various files
