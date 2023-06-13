@@ -53,6 +53,12 @@ open code editor
 
 $ code . (visual studio code)
 
+import database mysql 
+
+open folder tesfastprint (1).sql in repository 
+
+open phpmyadmin > import tesfastprint databse to phpmyadmin
+
 run application 
 
 open terminal in vs code src (ctrl+shift+`)
